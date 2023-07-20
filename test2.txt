@@ -1,4 +1,4 @@
-﻿ID,orig.ident,nCountRNA,nFeatureRNA,percent.mt,DF.classifications,seurat_clusters,celltype
+﻿ID,orig.ident,nCountRNA,nFeatureRNA,percentmt,DFclassifications,seurat_clusters,celltype
 VIO_D18_CGGGACTTCGGCTGTG-1,VIO_D18,8488,2143,14.99764373,Singlet,8,Mk
 VIO_D15_TTCAGGATCGAGAAGC-1,VIO_D15,2115,1136,14.98817967,Singlet,21,Ect-like
 VIO_D08_TTTATGCCACCGGAAA-1,VIO_D08,21601,4887,14.98541734,Singlet,14,Fibro
